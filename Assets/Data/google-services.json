@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1063336085834",
+    "firebase_url": "https://fir-unitytest-3aa76.firebaseio.com",
+    "project_id": "fir-unitytest-3aa76",
+    "storage_bucket": "fir-unitytest-3aa76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063336085834:android:11533f4a37b297939299b3",
+        "android_client_info": {
+          "package_name": "com.JonathanSanchez.FirebaseUnity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063336085834-ibj98hjl1ue2020i97bu6mtll2qfj907.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCntblLM_oq9jlWbcw-n6GOTd_YAuMc3hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063336085834-ibj98hjl1ue2020i97bu6mtll2qfj907.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063336085834-i608qalqcf92vtbll9jtj85ke5682rnu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.JonathanSanchez.FirebaseUnity"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

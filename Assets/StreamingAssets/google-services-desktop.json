@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "1063336085834",
+    "firebase_url": "https://fir-unitytest-3aa76.firebaseio.com",
+    "project_id": "fir-unitytest-3aa76",
+    "storage_bucket": "fir-unitytest-3aa76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063336085834:ios:d7ce75a7c798da329299b3",
+        "android_client_info": {
+          "package_name": "com.JonathanSanchez.FirebaseUnity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063336085834-i608qalqcf92vtbll9jtj85ke5682rnu.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqTt6YcMCpBMilPnPovsV1S7hoBpHqsfY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
